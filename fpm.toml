@@ -1,0 +1,10 @@
+name = "fortty"
+version = "0.1.0"
+license = "Apache-2.0"
+maintainer = ["@awvwgk"]
+author = ["Sebastian Ehlert"]
+copyright = "2022 Sebastian Ehlert"
+description = "Fortran Terminal"
+
+[build]
+external-modules = ["ifport"]

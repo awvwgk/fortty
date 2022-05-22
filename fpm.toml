@@ -1,5 +1,5 @@
 name = "fortty"
-version = "0.1.0"
+version = "version.txt"
 license = "Apache-2.0"
 maintainer = ["@awvwgk"]
 author = ["Sebastian Ehlert"]
